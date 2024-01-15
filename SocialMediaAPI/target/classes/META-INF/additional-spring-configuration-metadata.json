@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "jsonplaceholder.api.posts",
+    "type": "java.lang.String",
+    "description": "A description for 'jsonplaceholder.api.posts'"
+  },
+  {
+    "name": "jsonplaceholder.api.users",
+    "type": "java.lang.String",
+    "description": "A description for 'jsonplaceholder.api.users'"
+  },
+  {
+    "name": "jsonplaceholder.api.comments",
+    "type": "java.lang.String",
+    "description": "A description for 'jsonplaceholder.api.comments'"
+  }
+]}
